@@ -41,10 +41,9 @@ This scene was developed to:
 
 ## 🚀 How to Run
 
-1. Clone or download the project.
-2. Open in Unity 2022.3+ (LTS Recommended).
-3. Open the scene: `Scenes/MusicalStage.unity`.
-4. Press **Play** to test the level trigger and sequence logic.
+1. I have Provided the Demo In This Repository
+2. Download it and Extract all In Your Folder
+3. Hit The Exe. File and Play
 
 ---
 
@@ -68,4 +67,4 @@ Game Designer | Unity Developer
 ## 📩 Contact
 
 Open to feedback, collaboration, and academic use.  
-GitHub | LinkedIn | Email
+🔗 [Github](https://github.com/David22567) | [LinkedIn](https://www.linkedin.com/in/david-ankit-chandra-738a44297/) | [Email](Ankitchandra225@gmail.com)
