@@ -23,7 +23,7 @@ This interactive scene is a creative experiment that combines gameplay, musical 
 
 **Music & Visual Reference:**  
 *“The Musical”* — by **Gods of Asgard**  
-🔗 [YouTube Video Reference](https://www.youtube.com/watch?v=xxxx)
+🔗 [YouTube Video Reference](https://youtu.be/uxs_HYw_mLk?si=DUXXXkklN-XiqECF)
 
 > All rights to the original music and video belong to their respective creators. This project uses segments purely for study under fair use.
 
