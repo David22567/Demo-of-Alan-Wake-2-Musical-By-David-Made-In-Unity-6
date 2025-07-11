@@ -1,12 +1,75 @@
-Thought I Might Show My Progress on This Work, I was Observing How The Remedy Entertainment Worked On Alan Wake Musical Part "We Sing"
-I Researched on it and Made it by Myself To Understand The Level Designing and Lighting Works In unity.
+# 🎮 Alan Wake 2: Musical Scene Recreation (Unity Demo)
 
-Source of Original Video - https://youtu.be/uxs_HYw_mLk?si=GmL3GZbsoPS10Mm9
+This Unity project is a fan-made recreation of the interactive musical scene from *Alan Wake 2*, created entirely for **educational purposes**. The goal was to study the cinematic techniques, musical pacing, and interactive storytelling used in AAA games and replicate them using Unity’s tools such as Timeline, Cinemachine, and Blueprint-style event logic.
 
-This Content contains footage from Alan Wake 2 – specifically the musical scene referenced from the original video: "Alan Wake 2 - We Sing (Full Musical Scene)" by Remedy Entertainment.
+---
 
-I do not own the rights to the original video, game, music, or any related content. All rights remain with their respective owners.
+## 📖 Overview
 
-This use is for educational and non-commercial purposes only, specifically for study, research, and learning how interactive musical levels are designed in video games.
+Inspired by Remedy Entertainment’s *Alan Wake 2*, this demo simulates a surreal, TV-style musical performance in an interactive environment. The player can trigger different parts of the musical performance through level interaction. Each sequence is managed through event-driven logic and Level Sequences (Timeline), aiming for seamless transitions between musical segments.
 
-No copyright infringement is intended. This work is transformative and falls under fair use as outlined in U.S. copyright law for purposes such as criticism, comment, education, scholarship, and research.
+---
+
+## 🛠️ Features
+
+- 🎼 **Event-Driven Musical Progression**  
+- 🎥 **Cinemachine + Timeline Camera Cuts**  
+- ⏱️ **Sequenced Playback using Triggers**  
+- 🧠 **AAA-Style Scene Flow Logic in Unity**  
+- 🎭 **Dynamic Actor Visibility & Control**
+
+---
+
+## 🎓 Educational Purpose
+
+This project is built to:
+- Learn cinematic implementation techniques in Unity.
+- Explore narrative-driven gameplay design.
+- Study the use of Timeline, Triggers, and Level Sequences.
+- Analyze the creative structure of musical storytelling in modern games.
+
+---
+
+## 🚀 Getting Started
+
+To run the project:
+
+1. Clone or download the repository.
+2. Open the project in Unity 2022.3+ (or equivalent LTS version).
+3. Load the scene: `Scenes/MusicalLevel.unity`.
+4. Press Play to test the interactive sequence.
+
+---
+
+## 📁 Project Structure
+
+- `Assets/Scripts/`: Custom event and sequence logic.
+- `Assets/Timeline/`: Level sequences and musical parts.
+- `Assets/Prefabs/`: Musical stage setup.
+- `Assets/Scenes/`: Main playable scene.
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This is a **fan-made recreation** intended only for learning and portfolio purposes.
+
+- *Alan Wake 2* is © Remedy Entertainment and Epic Games.
+- This project is not affiliated with, endorsed by, or connected to the original developers.
+- No copyrighted assets, music, or official IP content are used.
+- Do not redistribute or monetize this project.
+
+---
+
+## 🧑‍💻 Author
+
+**Ankit Chandra**  
+Game Designer | Unity Developer  
+*Built with passion for learning and storytelling.*
+
+---
+
+## ⭐ Support / Questions
+
+This project is open to anyone interested in studying cinematic sequences in Unity.  
+For inquiries or collaboration, feel free to reach out via GitHub or LinkedIn.
